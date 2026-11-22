@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omar-video.github.io/smart-affiliate-hub/sitemap.xml
